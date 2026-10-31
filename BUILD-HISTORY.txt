@@ -1,0 +1,47 @@
+
+=== SEEN-HYBRID-ALL-MODELS.apk ===
+package: name='com.nino.seen' versionCode='2' versionName='2.0-HYBRID-ALL-MODELS' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-HYBRID-EYE.apk ===
+package: name='com.nino.seen.hybridfinaleye' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-HYBRID-FINAL-FIXED.apk ===
+package: name='com.nino.seen.hybridfinal' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-HYBRID-META-RAYBAN.apk ===
+package: name='com.nino.seen' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-HYBRID.apk ===
+package: name='com.nino.seen' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-FULL-DREAM-FIXED.apk ===
+package: name='com.nino.seen.fulldream' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-FULL-DREAM-UI-FIXED.apk ===
+package: name='com.nino.seen.fulldream' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-FULL-TAP.apk ===
+package: name='com.nino.seen.fulltap' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-MY-TURN-APK.apk ===
+package: name='com.nino.seen' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-MY-TURN-SIDE-BY-SIDE-FIXED.apk ===
+package: name='com.nino.seen.myturn' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-MY-TURN-SIDE-BY-SIDE.apk ===
+package: name='com.nino.seen.myturn' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-MY-TURN-SIDE-COMPAT.apk ===
+package: name='com.nino.seenmyturnside' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-10-MODELS-TORCH-FIXED.apk ===
+package: name='com.nino.seen.v2' versionCode='2' versionName='2.0' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-10MODELS-WORKING.apk ===
+package: name='com.nino.seen.v2' versionCode='7' versionName='7.0-NOANON' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-FINAL-10MODELS-LIVE.apk ===
+package: name='com.nino.seen.v2' versionCode='5' versionName='5.0-LIVE-NOLAMBDA' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-FIXED-D8-10MODELS.apk ===
+package: name='com.nino.seen.v2' versionCode='6' versionName='6.0-FIXED-D8' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-LIVE-10MODELS-FINAL.apk ===
+package: name='com.nino.seen.v2' versionCode='4' versionName='4.0-LIVE-10MODELS' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-LIVE-VIDEO-10-MODELS.apk ===
+package: name='com.nino.seen.v2' versionCode='3' versionName='3.0-LIVE' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-NO-CRASH-10MODELS.apk ===
+package: name='com.nino.seen.v2' versionCode='8' versionName='8.0-NO-R' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-NO-LOOP-10MODELS.apk ===
+package: name='com.nino.seen.v2' versionCode='9' versionName='9.0-FINAL-NOLOOP' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-V2-OFFLINE-WORKS-10MODELS.apk ===
+package: name='com.nino.seen.v2' versionCode='10' versionName='10.0-OFFLINE-OK' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-AUDIO-19.0.apk ===
+package: name='com.nino.seen.aros' versionCode='19' versionName='19.0-FIXED-ALL' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+=== SEEN-FUSION-20.0.apk ===
+package: name='com.nino.seen.aros' versionCode='20' versionName='20.0-FUSION-FINAL' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
